@@ -49,7 +49,6 @@ fun CarteirinhaScreen(
                 conteudo = "jkhgkgfhgf"
             )
         }
-        git status
 
     }
 
