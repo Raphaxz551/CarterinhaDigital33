@@ -42,7 +42,7 @@ fun CarteirinhaScreen(
                     .fillMaxWidth(0.8f)
             )
             PerfilAluno(
-                nome = "Rafael Costa",
+                nome = "Raphael de Jesus Ferreira",
                 curso = "Desenvolvimento de Sistemas"
             )
             QrCode(
